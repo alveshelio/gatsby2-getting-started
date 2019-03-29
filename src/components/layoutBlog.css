@@ -1,6 +1,6 @@
 .Layout {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 450px;
   grid-template-rows: 100px auto 100px;
   justify-items: center;
 }
